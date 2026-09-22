@@ -21,3 +21,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+models/churn_model_pipeline.pkl
